@@ -13,5 +13,5 @@ We present **LLIEDiff** with:
 ## Run
 
 ```sh
-  bash run.sh --indir /path/to/your/test_images /path/to/your/checkpoint
+  bash run.sh --indir /path/to/your/test_images --model_id /path/to/your/checkpoint
 ```
