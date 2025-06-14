@@ -8,7 +8,7 @@ We present **LLIEDiff** with:
 2. **Contribution**: Modeling the degradation process in an image-adaptive manner, penalizing the latent outside the manifold of natural images, and balancing the strengths of the guidance from the given low-light image during the denoising process.
 
 # Methods
-![method](figs/framework.png "model arch")
+![method](framework.png "model arch")
 
 ## Run
 
